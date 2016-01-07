@@ -1,2 +1,2 @@
 # hello-world
-Hello World. Thjs is my first hello-world project on github
+Hello World. This is my first hello-world project on github
